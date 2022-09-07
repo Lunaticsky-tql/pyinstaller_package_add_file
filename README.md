@@ -3,6 +3,6 @@ One program to figure out the way to associate your packaged program to other fi
 
 run
 ```shell
-pyinstaller --add-data="[absolute-path-of the file];." -F main.py
+pyinstaller --add-data="[absolute-path of the file];." -F main.py
 ```
 to test
